@@ -6,7 +6,7 @@ Welcome to my **personal portfolio website**, built using **HTML, CSS**, and a t
 
 ## 🔗 Live Demo
 
-🌐 **[View Website](https://fatima-portfolio.vercel.app)**  
+🌐 **[View Website](https://fatima-portfolio-flax.vercel.app/)**  
 ✅ Deployed on **Vercel**
 
 ---
