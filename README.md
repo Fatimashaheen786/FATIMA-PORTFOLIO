@@ -1,35 +1,36 @@
-# 🌐 FATIMA's Portfolio
+# 💼 Fatima's Portfolio Website
 
-Welcome to my personal developer portfolio website — built to showcase my projects, skills, and experience as a passionate **MERN Stack Developer** and aspiring businesswoman. 🚀
-
-## 📸 Live Website
-
-🔗 [Visit Now](https://fatima-portfolio.vercel.app)
+Welcome to my **personal portfolio website**, built using **HTML, CSS**, and a touch of **JavaScript**. This site is designed to showcase who I am, what I do, and how I bring ideas to life through modern web design.
 
 ---
 
-## 🧠 About Me
+## 🔗 Live Demo
 
-Hi, I’m **Fatima**, a creative and determined developer who turns ideas into modern, responsive, and fast websites & applications. I specialize in:
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **UI Libraries:** Tailwind CSS, Material UI, Bootstrap
-
-I'm not just building code — I'm building **dreams**, solving **real problems**, and helping people level up their digital presence.
+🌐 **[View Website](https://fatima-portfolio.vercel.app)**  
+✅ Deployed on **Vercel**
 
 ---
 
-## 🖼️ Features
+## 👩‍💻 About Me
 
-✅ Fully responsive and mobile-first  
-✅ Dark-mode friendly  
-✅ Clean UI/UX with modern design  
-✅ Animated interactions and smooth scrolling  
-✅ Deployed on Vercel (blazing fast!)
+Hi, I’m **Fatima** — a passionate frontend developer and future businesswoman 🇵🇰✨  
+I create modern, responsive websites with clean code and aesthetic UI.
+
+🔧 **Skills:**  
+- HTML5  
+- CSS3  
+- JavaScript (vanilla)  
+- Responsive Design  
+- UI/UX thinking  
+- Git & GitHub
 
 ---
 
-## 📁 Folder Structure (if applicable)
+## ✨ Features
 
+- 📱 Fully responsive on all devices
+- 🎨 Beautiful and clean UI design
+- 💡 Simple, fast, and lightweight
+- ⚡ Deployed using Vercel
+
+---
